@@ -1,0 +1,5 @@
+# phpMyadmin_execution_sql
+批量登陆phpMyadmin执行sql语句
+
+# 主要用于awd线下攻防。
+phpMyAdmin_url可以根据实际情况自行修改
